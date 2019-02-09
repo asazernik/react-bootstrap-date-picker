@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-date-picker",
+  "name": "@parsley-oss/react-bootstrap-date-picker",
   "keywords": [
     "react",
     "react-component",
@@ -11,7 +11,7 @@
     "picker"
   ],
   "main": "lib/index.js",
-  "version": "5.1.1-pre",
+  "version": "5.1.1",
   "description": "React-Bootstrap based date picker.",
   "directories": {
     "test": "test"
